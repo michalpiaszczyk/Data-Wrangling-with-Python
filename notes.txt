@@ -12,3 +12,12 @@ chierarchia typow:
 4. bool
 
 
+print(nums)
+
+large_nums = nums[nums > 26]
+print(large_nums)
+
+
+arr = np.arange(1,13)
+print(arr)
+print(arr.reshape(3, 4))
